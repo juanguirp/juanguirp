@@ -1,4 +1,4 @@
-👋 Hi, I’m Juangui!
+# 👋 Hi, I’m Juangui!  
 👀 I’m interested in optimization and improvement of software systems using modern technologies and best practices.  
 🌱 I’m currently learning about software architecture.
 
